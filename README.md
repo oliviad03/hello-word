@@ -1,2 +1,4 @@
 # hello-word
-test 
+Hi 
+Learn to test! 
+Thank you 
